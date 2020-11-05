@@ -3,6 +3,8 @@ welcome to ABC hotel
 Kheer
 pasta
 
+beans
+pizza
 chicken fry
 
 Thank you 
