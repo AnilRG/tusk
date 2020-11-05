@@ -7,4 +7,7 @@ beans
 pizza
 chicken fry
 
+beans1
+pizza1
+
 Thank you 
